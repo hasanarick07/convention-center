@@ -11,4 +11,6 @@
 }
 .btn-bg-color1{
     background-color: #FFFFFF;
+    mix-blend-mode: normal;
+    border-radius: 24px;
 }
